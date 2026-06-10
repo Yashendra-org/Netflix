@@ -48,7 +48,7 @@ To view this project locally, follow these simple steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/Yashendra-org/netflix-clone.git
 
 2. **Open the project:**
    Navigate to the project folder and open `index.html` in your favorite web browser.
@@ -66,18 +66,12 @@ Building this project helped me refine several critical skills:
 
 ## 👨‍💻 Contact
 If you have any feedback or want to discuss this project, feel free to reach out:
-*   **GitHub:** [@your-github-username](https://github.com/your-username)
-*   **LinkedIn:** [Your Profile Link]
-*   **Email:** your-email@example.com
+*   **GitHub:** https://github.com/Yashendra-org
+*   **LinkedIn:** Yashendra Kumar
+*   **Email:** yashendrakumar789@gmail.com
 
 ---
-*Built with ❤️ by [Your Name]*
+*Built with ❤️ by Yashendra Kumar*
 
 ---
 
-### Important Tips for your GitHub Repo:
-1.  **Repository Name:** GitHub mein apni repo ka naam `netflix-clone` hi rakhein.
-2.  **Live Demo:** Agar aap chahte hain ki recruiter aapki site ko bina download kiye dekh sake, toh repo ke **Settings > Pages** mein jaakar **GitHub Pages** enable kar dein. Isse aapko ek "Live Link" mil jayega, jise aap README ke top par add kar sakte hain.
-3.  **Consistency:** Jo fonts aapne CSS mein use kiye hain, agar woh Google Fonts (like 'Netflix Sans' alternative or 'Roboto') se hain, toh unhe CSS mein mention karna na bhulein.
-
-Kya aapne apna code GitHub par push kar diya hai, ya aapko usmein help chahiye?
